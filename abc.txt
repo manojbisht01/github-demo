@@ -1,3 +1,4 @@
 I am a new test file
 I an modified by a new branch.
 Testing the graph in GIT
+Automerging testing
