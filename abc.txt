@@ -4,3 +4,5 @@ Testing the graph in GIT
 Automerging testing
 Adding test for rebase command
 testing simple stash command
+git stash branch testing
+
