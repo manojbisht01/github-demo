@@ -1,1 +1,2 @@
 adding some dummy text in the file to test
+I am a new line in xyz.txt file
