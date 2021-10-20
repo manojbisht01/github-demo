@@ -3,3 +3,4 @@ I am a new line in xyz.txt file
 This line is added from new branch: newBranch
 Testing explicit merge (No fast Forwarding)
 Rebase testing review
+To test git Rebase Conflict
